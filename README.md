@@ -1,7 +1,8 @@
 # dictionary-app-next.js
 This is a simple Dictionary app built using Next.js. It allows users to search for word definitions and meanings.
 
-![MergedImages](https://github.com/cRED-f/dictionary-app-next.js/assets/127311493/c8c31cc9-9af9-49b0-98f1-2ee3237921d8)
+![MergedImages](https://github.com/cRED-f/dictionary-app-next.js/assets/127311493/5c782f20-10e6-443e-930d-d8613aaa11ac)
+
 
 ## Feature 
 - Search for word definitions and meanings.
